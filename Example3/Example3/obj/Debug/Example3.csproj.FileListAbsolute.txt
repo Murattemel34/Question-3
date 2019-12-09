@@ -1,0 +1,6 @@
+C:\Users\Murat\Desktop\Ttg\Example3\Example3\bin\Debug\Example3.exe.config
+C:\Users\Murat\Desktop\Ttg\Example3\Example3\bin\Debug\Example3.exe
+C:\Users\Murat\Desktop\Ttg\Example3\Example3\bin\Debug\Example3.pdb
+C:\Users\Murat\Desktop\Ttg\Example3\Example3\obj\Debug\Example3.csprojAssemblyReference.cache
+C:\Users\Murat\Desktop\Ttg\Example3\Example3\obj\Debug\Example3.exe
+C:\Users\Murat\Desktop\Ttg\Example3\Example3\obj\Debug\Example3.pdb
