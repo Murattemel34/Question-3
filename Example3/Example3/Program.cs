@@ -17,14 +17,14 @@ namespace Example3
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Kaç Grup İstersin? (Max 5)");
+            Console.WriteLine("Kaç Adet Hesap Numarası Grubu İstersin? (Max 5)");
             int group_sayisi = Convert.ToInt16(Console.ReadLine());
             
             for(int z = 0; z < 1;)
             {
                 if (group_sayisi > 5)
                 {
-                    Console.WriteLine("Max 5 girebilirsiniz!");
+                    Console.WriteLine("Max 5 Girebilirsiniz!");
                      group_sayisi = Convert.ToInt16(Console.ReadLine());
                 }                    
                 else 
@@ -34,7 +34,7 @@ namespace Example3
             for (int g = 1; g <= group_sayisi; g++)
             {
                 Console.WriteLine("---------");
-                Console.WriteLine(g + ".grup kaç değer istersin?");
+                Console.WriteLine(g + ".Grup Kaç Adet Banka Hesap Numarasına Sahip Olsun?");
                 //Console.Write("Değer boyutunu giriniz = ");
 
                 int boyut = int.Parse(Console.ReadLine());
@@ -43,7 +43,7 @@ namespace Example3
 
                 for (int i = 0; i < hesNoArray.Length; i++)
                 {                   
-                    Console.Write("Değer giriniz = ");
+                    Console.Write("Banka Hesap Numarası Giriniz = ");
 
                     hesNoArray[i] = Console.ReadLine();
                     for (int z = 0; z < 1;)
